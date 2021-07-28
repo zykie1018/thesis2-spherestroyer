@@ -1,0 +1,10 @@
+/*
+/*/
+!/Assets/
+!/Packages/
+!/ProjectSettings/
+!.gitignore
+!README.md
+
+/Assets/Media/Sounds/
+/Assets/SceneDependencyCache/
